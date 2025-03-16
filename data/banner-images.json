@@ -1,0 +1,10 @@
+{
+    "banners": [
+        {
+            "id": "iot-banner",
+            "title": "IoT Product Solution",
+            "description": "We believe that every customer has a right to get error-free services.",
+            "image_url": "./images/iot-top-banner.jpg"
+        }
+    ]
+}
